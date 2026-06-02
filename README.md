@@ -188,12 +188,3 @@ python analysis.py
 ## 🏁 Conclusion
 
 By using SARIMA modeling, we successfully captured the complex interactions of trend and seasonality present in the Air Passengers dataset. Automated parameter selection using `pmdarima` allowed us to find a highly accurate model (MAPE = 2.97%) that provides solid predictive utility for forecasting passenger demand.
-
----
-
-## 👤 Author
-
-- **Your Name**
-- [LinkedIn Profile](https://linkedin.com/in/yourusername)
-- [GitHub Profile](https://github.com/yourusername)
-- [Portfolio Website](https://yourportfolio.com)
